@@ -1,0 +1,75 @@
+RNA-10-.1-500.model
+
+Cross-Validation
+=== Summary ===
+
+Correlation coefficient                  0.899 
+Mean absolute error                 349928.8699
+Root mean squared error            1618014.0046
+Relative absolute error                 28.6141 %
+Root relative squared error             44.4264 %
+Total Number of Instances              279
+
+Percentage split (75%)
+=== Summary ===
+
+Correlation coefficient                  0.9842
+Mean absolute error                 141405.4717
+Root mean squared error             262823.031 
+Relative absolute error                 14.4297 %
+Root relative squared error             19.6341 %
+Total Number of Instances               70
+
+RNA-10-.3-500.model
+
+Cross-Validation
+=== Summary ===
+
+Correlation coefficient                  0.8695
+Mean absolute error                 496414.2714
+Root mean squared error            1820156.7544
+Relative absolute error                 40.5924 %
+Root relative squared error             49.9768 %
+Total Number of Instances              279   
+
+Percentage split (75%)
+=== Summary ===
+
+Correlation coefficient                  0.9834
+Mean absolute error                 147336.9914
+Root mean squared error             246746.7262
+Relative absolute error                 15.035  %
+Root relative squared error             18.4331 %
+Total Number of Instances               70 
+
+RNA-10-.3-500.model
+
+Cross Validation
+=== Summary ===
+
+Correlation coefficient                  0.8932
+Mean absolute error                 356617.5603
+Root mean squared error            1655613.1279
+Relative absolute error                 29.1611 %
+Root relative squared error             45.4588 %
+Total Number of Instances              279
+
+Percentage split (75%)
+=== Summary ===
+
+Correlation coefficient                  0.9854
+Mean absolute error                 175581.1712
+Root mean squared error             290628.472 
+Relative absolute error                 17.9172 %
+Root relative squared error             21.7113 %
+Total Number of Instances               70   
+
+
+
+
+
+
+
+
+
+

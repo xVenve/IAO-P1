@@ -1,0 +1,217 @@
+RNA-8-.01-500.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.8733
+Mean absolute error                 389769.777 
+Root mean squared error            1776929.2383
+Relative absolute error                 31.872  %
+Root relative squared error             48.7898 %
+Total Number of Instances              279
+
+
+RNA-8-.01-500.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.9823
+Mean absolute error                 226398.0447
+Root mean squared error             286911.8708
+Relative absolute error                 23.1027 %
+Root relative squared error             21.4336 %
+Total Number of Instances               70 
+
+---------------------------------------------------
+
+RNA-8-.01-1000.model
+
+Cross Validation
+
+Correlation coefficient                  0.8765
+Mean absolute error                 365373.7796
+Root mean squared error            1756688.5094
+Relative absolute error                 29.8771 %
+Root relative squared error             48.2341 %
+Total Number of Instances              279
+
+
+RNA-8-.01-1000.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.9823
+Mean absolute error                 252863.4529
+Root mean squared error             308061.6996
+Relative absolute error                 25.8034 %
+Root relative squared error             23.0136 %
+Total Number of Instances               70 
+
+------------------------------------------------------------------------------------------------------
+
+
+RNA-8-.05-500.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.8617
+Mean absolute error                 385455.4647
+Root mean squared error            1845410.8852
+Relative absolute error                 31.5192 %
+Root relative squared error             50.6702 %
+Total Number of Instances              279
+
+
+RNA-8-.05-500.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.9835
+Mean absolute error                 165932.0081
+Root mean squared error             244169.8854
+Relative absolute error                 16.9325 %
+Root relative squared error             18.2406 %
+Total Number of Instances               70 
+
+---------------------------------------------------
+
+RNA-8-.05-1000.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.8707
+Mean absolute error                 362900.8493
+Root mean squared error            1788224.833 
+Relative absolute error                 29.6749 %
+Root relative squared error             49.1    %
+Total Number of Instances              279
+
+
+RNA-8-.05-1000.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.982 
+Mean absolute error                 290049.7072
+Root mean squared error             337705.1725
+Relative absolute error                 29.5981 %
+Root relative squared error             25.2281 %
+Total Number of Instances               70
+
+------------------------------------------------------------------------------------------------------
+
+
+RNA-8-.1-500.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.8909
+Mean absolute error                 379583.7935
+Root mean squared error            1660754.1764
+Relative absolute error                 31.0391 %
+Root relative squared error             45.6    %
+Total Number of Instances              279 
+
+
+RNA-8-.1-500.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.9841
+Mean absolute error                 185002.0519
+Root mean squared error             255166.21  
+Relative absolute error                 18.8785 %
+Root relative squared error             19.0621 %
+Total Number of Instances               70   
+
+---------------------------------------------------
+
+RNA-8-.1-1000.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.879 
+Mean absolute error                 364422.4976
+Root mean squared error            1733920.3218
+Relative absolute error                 29.7993 %
+Root relative squared error             47.6089 %
+Total Number of Instances              279
+
+
+RNA-8-.1-1000.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.983 
+Mean absolute error                 162507.4865
+Root mean squared error             280521.0277
+Relative absolute error                 16.583  %
+Root relative squared error             20.9562 %
+Total Number of Instances               70   
+
+------------------------------------------------------------------------------------------------------
+
+
+RNA-8-.3-500.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.874 
+Mean absolute error                 419302.0501
+Root mean squared error            1776550.1391
+Relative absolute error                 34.2869 %
+Root relative squared error             48.7794 %
+Total Number of Instances              279
+
+
+RNA-8-.3-500.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.978 
+Mean absolute error                 189285.7543
+Root mean squared error             275808.348 
+Relative absolute error                 19.3156 %
+Root relative squared error             20.6042 %
+Total Number of Instances               70 
+
+---------------------------------------------------
+  
+RNA-8-.3-2000.model
+
+Cross Validation
+
+=== Summary ===
+Correlation coefficient                  0.8781
+Mean absolute error                 391324.213 
+Root mean squared error            1749114.3721
+Relative absolute error                 31.9991 %
+Root relative squared error             48.0261 %
+Total Number of Instances              279
+
+
+RNA-8-.3-2000.model
+
+Percentage Split
+
+=== Summary ===
+Correlation coefficient                  0.9791
+Mean absolute error                 221091.693 
+Root mean squared error             292900.1563
+Relative absolute error                 22.5613 %
+Root relative squared error             21.881  %
+Total Number of Instances 
+
+------------------------------------------------------------------------------------------------------

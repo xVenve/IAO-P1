@@ -42,7 +42,7 @@ Relative absolute error                 15.035  %
 Root relative squared error             18.4331 %
 Total Number of Instances               70 
 
-RNA-10-.3-500.model
+RNA-10-.05-500.model
 
 Cross Validation
 === Summary ===
@@ -64,8 +64,27 @@ Relative absolute error                 17.9172 %
 Root relative squared error             21.7113 %
 Total Number of Instances               70   
 
+RNA-10-.1-1000.model
 
+Cross Validation
+=== Summary ===
 
+Correlation coefficient                  0.8804
+Mean absolute error                 369225.0948
+Root mean squared error            1738076.7766
+Relative absolute error                 30.192  %
+Root relative squared error             47.7231 %
+Total Number of Instances              279
+
+Percentage split (75%)
+=== Summary ===
+
+Correlation coefficient                  0.9838
+Mean absolute error                 187441.1586
+Root mean squared error             312824.8613
+Relative absolute error                 19.1274 %
+Root relative squared error             23.3695 %
+Total Number of Instances               70
 
 
 

@@ -1,0 +1,127 @@
+RNA-5-.3-500.model
+=== Summary ===
+Correlation coefficient                  0.9115
+Mean absolute error                 447177.1443
+Root mean squared error            1512678.3003
+Relative absolute error                 36.5663 %
+Root relative squared error             41.5342 %
+Total Number of Instances              279 
+=== Summary ===
+Correlation coefficient                  0.9785
+Mean absolute error                 156003.6182
+Root mean squared error             264876.6377
+Relative absolute error                 15.9194 %
+Root relative squared error             19.7875 %
+Total Number of Instances               70
+
+RNA-5-.1-500.model
+=== Summary ===
+Correlation coefficient                  0.9127
+Mean absolute error                 356461.9569
+Root mean squared error            1486621.1499
+Relative absolute error                 29.1484 %
+Root relative squared error             40.8187 %
+Total Number of Instances              279   
+=== Summary ===
+Correlation coefficient                  0.9839
+Mean absolute error                 158632.8648
+Root mean squared error             279854.3328
+Relative absolute error                 16.1877 %
+Root relative squared error             20.9064 %
+Total Number of Instances               70
+
+RNA-5-.05-500.model
+=== Summary ===
+Correlation coefficient                  0.9081
+Mean absolute error                 359370.0892
+Root mean squared error            1531291.3459
+Relative absolute error                 29.3862 %
+Root relative squared error             42.0453 %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.9846
+Mean absolute error                 157763.2218
+Root mean squared error             269264.6073
+Relative absolute error                 16.0989 %
+Root relative squared error             20.1153 %
+Total Number of Instances               70  
+
+RNA-5-.01-500.model
+=== Summary ===
+Correlation coefficient                  0.8927
+Mean absolute error                 382443.1614
+Root mean squared error            1640258.5212
+Relative absolute error                 31.2729 %
+Root relative squared error             45.0372 %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.9851
+Mean absolute error                 162924.7542
+Root mean squared error             239416.3218
+Relative absolute error                 16.6256 %
+Root relative squared error             17.8855 %
+Total Number of Instances               70 
+
+RNA-5-.3-1000.model
+=== Summary ===
+Correlation coefficient                  0.8974
+Mean absolute error                 375603.5892
+Root mean squared error            1605648.3498
+Relative absolute error                 30.7136 %
+Root relative squared error             44.0869 %
+Total Number of Instances              279
+=== Summary ===
+Correlation coefficient                  0.9797
+Mean absolute error                 152109.679 
+Root mean squared error             254832.8997
+Relative absolute error                 15.522  %
+Root relative squared error             19.0372 %
+Total Number of Instances               70  
+
+RNA-5-.1-1000.model
+=== Summary ===
+Correlation coefficient                  0.9088
+Mean absolute error                 362123.7959
+Root mean squared error            1517576.2387
+Relative absolute error                 29.6113 %
+Root relative squared error             41.6687 %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.9831
+Mean absolute error                 142113.0147
+Root mean squared error             246593.8754
+Relative absolute error                 14.5019 %
+Root relative squared error             18.4217 %
+Total Number of Instances               70
+
+RNA-5-.05-1000.model
+=== Summary ===
+Correlation coefficient                  0.899 
+Mean absolute error                 364592.7439
+Root mean squared error            1595323.3125
+Relative absolute error                 29.8132 %
+Root relative squared error             43.8034 %
+Total Number of Instances              279 
+=== Summary ===
+Correlation coefficient                  0.9841
+Mean absolute error                 170537.6764
+Root mean squared error             253569.1902
+Relative absolute error                 17.4025 %
+Root relative squared error             18.9428 %
+Total Number of Instances               70 
+
+RNA-5-.01-1000.model
+=== Summary ===
+Correlation coefficient                  0.8992
+Mean absolute error                 356302.4461
+Root mean squared error            1594352.1201
+Relative absolute error                 29.1353 %
+Root relative squared error             43.7768 %
+Total Number of Instances              279 
+=== Summary ===
+Correlation coefficient                  0.9851
+Mean absolute error                 168866.157 
+Root mean squared error             242205.1862
+Relative absolute error                 17.2319 %
+Root relative squared error             18.0938 %
+Total Number of Instances               70   

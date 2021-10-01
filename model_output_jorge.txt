@@ -125,3 +125,75 @@ Root mean squared error             242205.1862
 Relative absolute error                 17.2319 %
 Root relative squared error             18.0938 %
 Total Number of Instances               70   
+
+
+testSet2-Col-Spa
+
+
+10-0,1-500
+=== Cross-validation ===
+=== Summary ===
+Correlation coefficient                  0.9843
+Mean absolute error                 218018.6878
+Root mean squared error             644849.0645
+Relative absolute error                 17.8277 %
+Root relative squared error             17.7059 %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.899 
+Mean absolute error                 291433.0079
+Root mean squared error             565872.4697
+Relative absolute error                 29.7392 %
+Root relative squared error             42.2733 %
+Total Number of Instances               70  
+
+10-0.05-500
+=== Cross-validation ===
+=== Summary ===
+Correlation coefficient                  0.986 
+Mean absolute error                218576.5561
+Root mean squared error             612402.0736
+Relative absolute error                 17.8733 %
+Root relative squared error             16.815  %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.936 
+Mean absolute error                 281381.7682
+Root mean squared error             450201.7176
+Relative absolute error                 28.7136 %
+Root relative squared error             33.6321 %
+Total Number of Instances               70  
+
+5-0.01-1000
+=== Cross-validation ===
+=== Summary ===
+Correlation coefficient                  0.9811
+Mean absolute error                 237926.0129
+Root mean squared error             703062.4312
+Relative absolute error                 19.4555 %
+Root relative squared error             19.3043 %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.8875
+Mean absolute error                 260164.8597
+Root mean squared error             613306.3989
+Relative absolute error                 26.5485 %
+Root relative squared error             45.8168 %
+Total Number of Instances               70  
+
+5-0.1-500
+=== Cross-validation ===
+=== Summary ===
+Correlation coefficient                  0.981 
+Mean absolute error                 235800.1908
+Root mean squared error             706809.4625
+Relative absolute error                 19.2817 %
+Root relative squared error             19.4071 %
+Total Number of Instances              279  
+=== Summary ===
+Correlation coefficient                  0.9532
+Mean absolute error                 220288.1229
+Root mean squared error             384630.2046
+Relative absolute error                 22.4793 %
+Root relative squared error             28.7337 %
+Total Number of Instances               70  

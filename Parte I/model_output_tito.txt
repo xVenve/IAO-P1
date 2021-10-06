@@ -1,0 +1,65 @@
+RNA-7-0.15-500
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.8741
+Mean absolute error                 422609.4319
+Root mean squared error            1768598.4371
+Relative absolute error                 34.5573 %
+Root relative squared error             48.5611 %
+Total Number of Instances              279 
+
+=== Percentage split(75%) ===
+=== Summary ===
+Correlation coefficient                  0.9805
+Mean absolute error                 237619.5076
+Root mean squared error             303003.22  
+Relative absolute error                 24.2478 %
+Root relative squared error             22.6357 %
+Total Number of Instances               70  
+
+90 días
+
+RNA2-5-.05-500
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9791
+Mean absolute error                 243202.331 
+Root mean squared error             740815.6349
+Relative absolute error                 19.887  %
+Root relative squared error             20.3409 %
+Total Number of Instances              279    
+
+=== Summary ===
+
+Correlation coefficient                  0.9118
+Mean absolute error                 247271.7855
+Root mean squared error             535788.5212
+Relative absolute error                 25.2328 %
+Root relative squared error             40.0259 %
+Total Number of Instances               70 
+
+RNA2-5-.1-1000
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9814
+Mean absolute error                 236525.214 
+Root mean squared error             701832.2534
+Relative absolute error                 19.341  %
+Root relative squared error             19.2705 %
+Total Number of Instances              279 
+
+
+=== Summary ===
+
+Correlation coefficient                  0.9594
+Mean absolute error                 208358.2228
+Root mean squared error             368009.9036
+Relative absolute error                 21.2619 %
+Root relative squared error             27.492  %
+Total Number of Instances               70    
